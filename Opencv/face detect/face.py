@@ -1,6 +1,5 @@
 """Program to detect face from webcam and to show name(user) on top of rectange
-By pressing 's' it will save identified image in Face directory
-By pressing 'q' program will quit """
+By pressing 's' it will save identified image in Face directory"""
 
 
 import cv2
